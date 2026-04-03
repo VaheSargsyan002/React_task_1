@@ -1,6 +1,6 @@
 import { useState } from "react";
 import "./App.css";
-import ProfileCard from "/home/vahe/react_class_1_task/src/components/ProfileCard.tsx";
+import ProfileCard from "./components/ProfileCard.tsx";
 
 function App() {
   const [team /*setTeam*/] = useState([
